@@ -63,3 +63,8 @@
   font-size: 12px;
   font-weight: 600;
 }
+
+.profile__action {
+  text-decoration: none;
+  color: inherit;
+}
